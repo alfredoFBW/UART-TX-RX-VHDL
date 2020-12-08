@@ -8,7 +8,7 @@
 -- Project Name: 
 -- Target Devices: 
 -- Tool Versions: 
--- Description: Receptor de UART de 8 bits con start, stop bit y no bit de paridad
+-- Description: UART RX:  8 bits data, 1 stop bit, no parity bit
 -- 
 -- Dependencies: 
 -- 
