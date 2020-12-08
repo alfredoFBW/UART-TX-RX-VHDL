@@ -2,7 +2,7 @@
 -- Company: 
 -- Engineer: Alfredo Gonzalez Calvin
 -- 
--- Create Date: 31.01.2020 17:45:27
+-- Create Date: 
 -- Design Name: 
 -- Module Name: UartRX - Behavioral
 -- Project Name: 
